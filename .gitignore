@@ -130,3 +130,6 @@ buildNumber.properties
 *.class
 *.log
 
+*/META-INF/*
+build
+
